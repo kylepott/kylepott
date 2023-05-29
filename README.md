@@ -12,8 +12,6 @@ I’m always looking to collaborate and we're hiring at Decise. Reach out and sa
 
 📫 kyle@decise.io
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylepott&show_icons=true&locale=en&layout=compact" alt="kylepott" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kylepott&show_icons=true&locale=en" alt="kylepott" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kylepott&show_icons=true&locale=en" alt="kylepott" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kylepott&" alt="kylepott" /></p>
