@@ -11,5 +11,3 @@ I co-founded Decise, a digital technology consultancy and agency. We help our cu
 I’m always looking to collaborate and we're hiring at Decise. Reach out and say hi!
 
 📫 kyle@decise.io
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kylepott&" alt="kylepott" /></p>
