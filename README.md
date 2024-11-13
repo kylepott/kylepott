@@ -10,4 +10,4 @@ I co-founded Decise, a digital technology consultancy and agency. We help our cu
 
 Reach out and say hi!
 
-📫 kyle@decise.io
+📫 hello@decise.io
