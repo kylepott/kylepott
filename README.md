@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 -->
 
-I founded and own Decise, a digital technology consultancy and agency. We help our customers across a wide range of industries adopt and incorporate modern technology and processes to achieve big outcomes. We pride ourselves in distinguished work ethic and outstanding customer service.
+I founded and own Decise, a digital technology consultancy and technical delivery firm. We help our customers across a wide range of industries adopt and incorporate modern technology and processes to achieve big outcomes. We pride ourselves in distinguished work ethic and outstanding customer service.
